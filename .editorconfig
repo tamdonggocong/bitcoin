@@ -12,6 +12,24 @@ trim_trailing_whitespace = true
 # Source code files
 [*.{h,cpp,py,sh}]
 indent_size = 4
+# Source code files
+[*.{h,cpp,py,sh}]
+indent_size = 4
+# Source code files
+[*.{h,cpp,py,sh}]
+indent_size = 4
+# Source code files
+[*.{h,cpp,py,sh}]
+indent_size = 4
+# Source code files
+[*.{h,cpp,py,sh}]
+indent_size = 4
+# Source code files
+[*.{h,cpp,py,sh}]
+indent_size = 4
+# Source code files
+[*.{h,cpp,py,sh}]
+indent_size = 4
 
 # .cirrus.yml, .fuzzbuzz.yml, etc.
 [*.yml]
@@ -22,5 +40,9 @@ indent_size = 2
 indent_style = tab
 
 # Autoconf scripts
+[configure.ac]
+indent_size = 2# Autoconf scripts
+[configure.ac]
+indent_size = 2# Autoconf scripts
 [configure.ac]
 indent_size = 2
